@@ -89,7 +89,7 @@ MACHINE ?= "raspberrypi0-wifi"
 # Ultimately when creating custom policy, people will likely end up subclassing 
 # these defaults.
 #
-DISTRO ?= "mndflight"
+DISTRO ?= "poky"
 
 # As an example of a subclass there is a "bleeding" edge policy configuration
 # where many versions are set to the absolute latest code from the upstream 
