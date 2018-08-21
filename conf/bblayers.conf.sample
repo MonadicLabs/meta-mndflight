@@ -13,7 +13,7 @@ BBLAYERS ?= " \
   ##OEROOT##/../meta-openembedded/meta-multimedia \
   ##OEROOT##/../meta-openembedded/meta-networking \
   ##OEROOT##/../meta-openembedded/meta-python \
-  ##OEROOT##/../meta-raspberry \
+  ##OEROOT##/../meta-raspberrypi \
   ##OEROOT##/../meta-mndflight \
   "
 
